@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LBlog.iml" filepath="$PROJECT_DIR$/.idea/LBlog.iml" />
       <module fileurl="file://$PROJECT_DIR$/LBlog.iml" filepath="$PROJECT_DIR$/LBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LBlog-model/LBlog-model.iml" filepath="$PROJECT_DIR$/LBlog-model/LBlog-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LBlog-service/LBlog-service.iml" filepath="$PROJECT_DIR$/LBlog-service/LBlog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LBlog-web/LBlog-web.iml" filepath="$PROJECT_DIR$/LBlog-web/LBlog-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/start/start.iml" filepath="$PROJECT_DIR$/start/start.iml" />
     </modules>
   </component>
 </project>
